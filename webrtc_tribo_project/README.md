@@ -1,6 +1,6 @@
 # Prototype WebRTC
 
-This project is developed by Clément Mouret and Luc Tribolet during an internship at Atos Worldline.
+This project is developed by mynameshop member.
 
 This prototype is only available for Chrome/Chromium with WebRTC support.
 This web application allows you to video chat with someone else by sharing a single link.
@@ -32,8 +32,6 @@ This project use the differents following projects :
 
 - jQuery
 - Bootstrap Twitter
-
-And it's been inspired directly from this application : https://apprtc.appspot.com/
 
 # Contacts
 
